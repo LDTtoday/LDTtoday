@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LDTtoday
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on my code on variables
+- 📫 How to reach me: email @ luketruett@yahoo.com
